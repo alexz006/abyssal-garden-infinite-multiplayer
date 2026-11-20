@@ -1,3 +1,31 @@
+# Abyssal Garden: Infinite Multiplayer
+
+> **This fork has moved on to its own repository: [alexz006/abyssal-infinite](https://github.com/alexz006/abyssal-infinite).**
+> Play it at **https://abyssal-infinite.alexz15.com**
+
+[Abyssal Garden](https://github.com/Noniv/abyssal-garden) by Maksymilian Dendura is a single hand-crafted underwater
+scene to look around in. **Abyssal Infinite** keeps that scene as the starting point and turns it into a game:
+
+- **Endless.** Swim in any direction: reefs, kelp forests, a gorge, a rift and the deep plain are generated around
+  you as you go, and every place is the same when you come back.
+- **Multiplayer.** Everyone on the site shares one sea. You can see other players, hear them, find them on the sonar,
+  eat them or get eaten.
+- **Creatures.** Play as one of ten species, from a crab on the sea floor to a whale, each with its own speed, depth
+  range, food and enemies.
+
+It is still made entirely by code with raw WebGPU, and it is still one HTML file.
+
+![Whales and a dolphin over the kelp](.github/screenshots/infinite-whales.jpg)
+
+| | |
+|---|---|
+| ![A fish over a reef meadow](.github/screenshots/infinite-reef.jpg) | ![A barracuda in the kelp forest](.github/screenshots/infinite-kelp.jpg) |
+
+The source, the multiplayer server and the full description are in
+**[alexz006/abyssal-infinite](https://github.com/alexz006/abyssal-infinite)**. The files in this repository are the
+original Abyssal Garden, unchanged; its README follows.
+
+---
 # Abyssal Garden
 
 **A dreamy underwater world you can swim through, right in your browser.**
