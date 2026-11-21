@@ -1,6 +1,6 @@
 # Abyssal Garden: Infinite Multiplayer
 
-> **This fork has moved on to its own repository: [alexz006/abyssal-infinite](https://github.com/alexz006/abyssal-infinite).**
+> **This fork has moved on to its own repository: [alexz006/abyssal-infinite](https://github.com/alexz006/abyssal-infinite).**<br>
 > Play it at **https://abyssal-infinite.wasd.fly**
 
 [Abyssal Garden](https://github.com/Noniv/abyssal-garden) by Maksymilian Dendura is a single hand-crafted underwater
