@@ -1,7 +1,7 @@
 # Abyssal Garden: Infinite Multiplayer
 
 > **This fork has moved on to its own repository: [alexz006/abyssal-infinite](https://github.com/alexz006/abyssal-infinite).**
-> Play it at **https://abyssal-infinite.alexz15.com**
+> Play it at **https://abyssal-infinite.wasd.fly**
 
 [Abyssal Garden](https://github.com/Noniv/abyssal-garden) by Maksymilian Dendura is a single hand-crafted underwater
 scene to look around in. **Abyssal Infinite** keeps that scene as the starting point and turns it into a game:
